@@ -1,6 +1,6 @@
 *flydiff.txt*	on-the-fly diff
 
-Version 0.0.1
+Version 0.0.2
 Script ID: 2274
 Copyright (C) 2008 kana <http://whileimautomaton.net/>
 License: MIT license  {{{
@@ -159,6 +159,9 @@ Normal buffer window ~
 
 ==============================================================================
 CHANGELOG					*flydiff-changelog*
+
+0.0.2	2012-03-24T13:55:10+09:00		*flydiff-changelog-0.0.2*
+	- Refine the document and the coding style.
 
 0.0.1	2008-06-28T03:46:26+09:00		*flydiff-changelog-0.0.1*
 	Fix many minor bugs:
